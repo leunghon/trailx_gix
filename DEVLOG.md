@@ -10,3 +10,13 @@
 - To test the feature, the following command can be used:
   ```bash
   python3 detectnet.py /dev/video0
+
+## November 14th, 2023
+
+### Progress Summary:
+- Started object count code file
+
+### Details:
+- To test the feature, the following command can be used:
+  ```bash
+  python3 trailxdetection.py /dev/video0
